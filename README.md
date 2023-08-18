@@ -7,7 +7,7 @@ I'm Evrim, I'm working on Web application development. I am sharing my projects 
 <p align="center">
 <a href="mailto:bekirevrimsumer@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/Mail-bekirevrimsumer@gmail.com-red?style=flat&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/bekirevrimsumer/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-bekirevrimsumer-yellow?style=flat&logo=linkedin"></a>
-<a href="https://twitter.com/evrimsumerr"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-evrimsumerr-blue?style=flat-square&logo=twitter"></a>
+<a href="https://twitter.com/bekirevrimsumer"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-bekirevrimsumer-blue?style=flat-square&logo=twitter"></a>
 </p>
 
 <h3 align="center">Languages, Editors and Tools:</h3>
