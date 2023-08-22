@@ -24,5 +24,5 @@ I'm Evrim, I'm working on Web application development. I am sharing my projects 
 
 <h2 align="center">Most Used Languages</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evrimsumerr&layout=compact&theme=tokyonight" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekirevrimsumer&layout=compact&theme=tokyonight" height="180">
 </p>
